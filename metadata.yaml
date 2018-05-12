@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31857
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Strong_Worthington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26187#The-Gentle-Art-of-Cooking-Wives
 gutenberg_issued: '2008-08-04'
 gutenberg_type: Text
 identifiers:
